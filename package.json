@@ -1,0 +1,20 @@
+{
+  "name": "mapsweather",
+  "version": "1.0.0",
+  "description": "\"Project using weather API's with Google Maps\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "weather",
+    "api",
+    "google",
+    "maps"
+  ],
+  "author": "Daniel Silva",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
